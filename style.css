@@ -1,0 +1,28 @@
+html {background: red;}
+h1 {
+  text-align: center;
+  color: red;
+  background-color: black;
+}
+li .1 {background-color: black
+}
+header {background-color: red;
+ }
+
+#nice {display: block;
+  border-radius: 50%;
+}
+#second {
+  border-radius: 30%;
+}
+#sweet {
+margin: 0 auto;
+  display: block;
+  border: 5px solid black;
+}
+#next {display: block;
+  border: thick solid black;
+}
+button {
+  text-align: center;
+border-color: rgb(255,255,255);}
